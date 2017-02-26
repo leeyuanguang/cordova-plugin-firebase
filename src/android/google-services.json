@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1080839683200",
+    "firebase_url": "https://rentapp-888888.firebaseio.com",
+    "project_id": "rentapp-888888",
+    "storage_bucket": "rentapp-888888.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080839683200:android:64f259038bc2cb7a",
+        "android_client_info": {
+          "package_name": "com.rengolin.mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080839683200-d9po55ennm7a13m7nt9h6cgjem6oqmmb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2z06xS8X1v3gIHonKfwwwHiV-umPv0X0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
